@@ -1,0 +1,18 @@
+body
+{
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+}
+audio
+{
+    max-width: 90%;
+}
+dl
+{
+    background-color: black;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    opacity: 0.8;
+}
